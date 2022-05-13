@@ -1,4 +1,4 @@
-This repository is here temporarily to show the performance and practically of our submitted paper "Efficient Constant-Size Delegatable Anonymous Credentials."
+This repository is here temporarily to show the performance and practically of our submitted paper "Practical Constant-Size Delegatable Anonymous Credentials."
 
 
 # Warning:
