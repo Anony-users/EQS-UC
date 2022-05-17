@@ -1,7 +1,7 @@
 """
 This is implementation of delegatable anonymous credential using SPSQE-UC signatures and set commitment.
 See  the following for the details
-- (Submitted) Constant-Size, Efficient, Delegatable Ano nymous Credentials through SPSEQ-UC, by Mir et al.,
+- (Submitted) Constant-Size, Efficient, Delegatable Ano nymous Credentials through SPSEQ-UC, 
 @Author: ...
 """
 
