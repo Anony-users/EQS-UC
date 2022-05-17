@@ -3,7 +3,7 @@ This implementation of SPSQE-UC signatures and their application delegatable ano
 See  the following for the details
 - Structure-Preserving Signatures on Equivalence Classes and
 Constant-Size Anonymous Credentials" by Fuchsbauer1 et al.,
-- (Submitted) Constant-Size, Efficient, Delegatable Ano nymous Credentials through SPSEQ-UC, by Mir et al.,
+- (Submitted) Constant-Size, Efficient, Delegatable Ano nymous Credentials through SPSEQ-UC,
 @Author: ..
 """
 
